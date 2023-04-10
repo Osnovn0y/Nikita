@@ -1,0 +1,15 @@
+body{
+	width: 1200px;
+	margin: 0 auto;
+	font-family: Verdana;
+}
+.header{
+	background-color: #1b5589;
+	display: flex;
+}
+.header img:nth-child(1){
+	filter: invert(100%);
+}
+.header ul li{
+	display: inline-block;
+}
